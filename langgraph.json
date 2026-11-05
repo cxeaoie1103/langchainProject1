@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+      "cook_agent": "./app/agents/personal_cook.py:agent"
+  },
+  "env": ".env"
+}

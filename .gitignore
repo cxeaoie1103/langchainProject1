@@ -1,0 +1,9 @@
+.env
+.idea/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+resources/*.db
+resources/*.db-shm
+resources/*.db-wal
+*.log
